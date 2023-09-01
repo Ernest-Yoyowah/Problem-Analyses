@@ -6,6 +6,7 @@ Welcome to the **Problem-Analyses** repository! Here, you'll find in-depth analy
 
 - [Unit Conversion of Length](/unit_conversion_problem_analysis.md): An analysis of a problem that involves converting length from feet and inches to centimeters.
 - [Two Sum](/Two-Sum.md): An analysis of a problem that find pairs of numbers in an array that add up to a given target.
+- [Sum of Array Elements](/simple_array_sum.md): An analysis of a problem that finds the sum of the array's elements as a single integer.
 
 ## Motivation
 
