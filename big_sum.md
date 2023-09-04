@@ -1,32 +1,41 @@
-# Problem Description: A Very Big Sum
+# Problem Analysis: A Very Big Sum
 
 ## Problem Statement
 
-In this challenge, you are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
+You are given an array of integers, some of which may be very large. Your task is to calculate and return the sum of all the integers in the array.
 
-## Function Description
+## Input
 
-Complete the `aVeryBigSum` function. It must return the sum of all array elements.
-
-### Input
-
-The function `aVeryBigSum` takes two parameters:
 - An integer `n`, representing the number of elements in the array.
 - An array `ar` of `n` integers.
 
-### Output
+## Output
 
-The function should return a `long` integer, which is the sum of all array elements.
+- A long integer representing the sum of all elements in the array.
 
 ## Constraints
 
 - `1 <= n <= 10`
 - `-10^10 <= ar[i] <= 10^10`
 
-## Example
+## Algorithm
 
-### Input
+1. Initialize a variable `total` to 0. This variable will store the sum of the elements.
+
+2. Iterate through the array `ar` from index 0 to `n-1`.
+   - For each element `ar[i]`, add it to the `total` using the following formula: `total = total + ar[i]`.
+
+3. After the loop is completed, `total` will contain the sum of all elements in the array.
+
+4. Return `total` as the result.
+
+## Pseudocode
 
 ```plaintext
-n = 5
-ar = [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]
+function aVeryBigSum(n, ar):
+    total = 0                   // Initialize the sum to 0
+s
+    for i from 0 to n-1:        // Iterate through the array
+        total = total + ar[i]   // Add the current element to the total
+
+    return total               // Return the total sum as a long integer
