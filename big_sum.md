@@ -34,7 +34,7 @@ You are given an array of integers, some of which may be very large. Your task i
 ```plaintext
 function aVeryBigSum(n, ar):
     total = 0                   // Initialize the sum to 0
-s
+
     for i from 0 to n-1:        // Iterate through the array
         total = total + ar[i]   // Add the current element to the total
 
