@@ -5,7 +5,7 @@ We need to create a program that takes 5 numbers as input from the user and sort
 ## Algorithm
 
 1. **Start**
-2. Initialize an array `numbers` of size 5 to store the input numbers.
+2. Initialize an array of `numbers` of size 5 to store the input numbers.
 3. **Input:** Ask the user to enter 5 numbers one by one and store them in the `numbers` array.
 4. **Sorting:** Use the bubble sort algorithm to sort the `numbers` array in ascending order.
    - Iterate through the array from 0 to 3 (i.e., for `i` from 0 to 3):
