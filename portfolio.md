@@ -52,4 +52,4 @@
 
 ## Ongoing Maintenance
 
-- [ ] Regularly update the content and make improvements as your portfolio grows and evolves.
+- [ ] Regularly update the content and make improvements as my portfolio grows and evolves.
