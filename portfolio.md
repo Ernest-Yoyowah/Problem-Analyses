@@ -22,6 +22,10 @@
 - [ ] Create a "Certificates" section to showcase relevant certifications.
   - [ ] Include certificate names, issuing organizations, and completion dates.
   - [ ] Provide links for verification, if possible.
+- [ ] Implement a "Dark Mode" for the website to enhance user experience.
+  - [ ] Create dark mode CSS styles.
+  - [ ] Add a toggle button or switch for users to switch between light and dark modes.
+  - [ ] Use JavaScript to handle the dark mode functionality.
 
 ## Design and User Experience
 
