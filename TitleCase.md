@@ -71,5 +71,5 @@ function titleCase(sentence) {
 
 const testSentence = "the quick brown fox jumps over the lazy dog";
 
-console.log(titleCase(testSentence)); // Should return "The Quick Brown Fox Jumps Over the Lazy Dog"
+console.log(titleCase(testSentence)); // Should return "The Quick Brown Fox Jumps Over the Lazy Dog "
 ```
