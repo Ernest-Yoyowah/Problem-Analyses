@@ -36,7 +36,7 @@ To solve this problem, we need to perform the following steps:
 
 ## Example
 
-```javascript
+```javascript:
 function titleCase(sentence) {
   const exceptions = [
     "a",
