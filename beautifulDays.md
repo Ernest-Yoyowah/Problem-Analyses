@@ -28,11 +28,13 @@ The task is to determine the number of beautiful days within a given range \([i,
 
 ## Pseudocode
 
-`function beautifulDays(i, j, k):
+```Pseudocode
+function beautifulDays(i, j, k):
     beautifulDayCount = 0
     for day in range(i, j + 1):
         reversedDay = parseInt(reverseString(day.toString()), 10)
         absoluteDifference = abs(day - reversedDay)
         if absoluteDifference % k == 0:
             beautifulDayCount++
-    return beautifulDayCount`
+    return beautifulDayCount
+```
