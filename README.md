@@ -2,12 +2,6 @@
 
 Welcome to the **Problem-Analyses** repository! Here, you'll find in-depth analyses of various coding problems. Each analysis includes problem statements, input/output requirements, approaches, pseudocode, examples, and conclusions. This repository serves as a showcase of my problem-solving skills and thought processes.
 
-## Contents
-
-- [Unit Conversion of Length](/unit_conversion_problem_analysis.md): An analysis of a problem that involves converting length from feet and inches to centimeters.
-- [Two Sum](/Two-Sum.md): An analysis of a problem that find pairs of numbers in an array that add up to a given target.
-- [Sum of Array Elements](/simple_array_sum.md): An analysis of a problem that finds the sum of the array's elements as a single integer.
-
 ## Motivation
 
 The goal of this repository is to provide comprehensive explanations of coding problems, outlining the steps and strategies I use to tackle them. Whether you're learning to code or honing your problem-solving skills, I hope these analyses can offer insights into effective approaches and clear explanations.
