@@ -55,6 +55,10 @@ Pattern recognition leverages past experiences to streamline problem-solving. Re
 
 Abstraction allows us to focus on essential elements by discarding unnecessary details. This ensures a more streamlined problem-solving process, preventing overcomplication and improving the efficiency of arriving at effective solutions.
 
+## Graphic Organizer
+
+To assist in breaking down and solving problems, you can download and use this [Graphic Organizer PDF](./Graphic-Organizer.pdf).
+
 ---
 
 These notes provide an overview of key concepts within Computational Thinking, highlighting the importance of Problem Identification, Decomposition, Pattern Recognition, and Abstraction in the problem-solving journey.
