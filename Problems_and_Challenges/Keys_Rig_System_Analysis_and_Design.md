@@ -1,4 +1,4 @@
-# Keys Rig System Analysis and Design
+# Keyz Rig System Analysis and Design
 
 ## 1. Introduction
 
